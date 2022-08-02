@@ -1,52 +1,118 @@
 ---
-title: "C'thulhu Resume"
 layout: resume
+title: "My Awesome Resume"
 ---
 
-# C'thulhu
+# Table of Contents
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+1.  [Ramon Arambula Resume](#org087adbd)
+    1.  [Education](#orgdb55078)
+        1.  [University of the Pacific, Stockton, CA                  Expected Graduation: May 2024](#org4248695)
+        2.  [Related Coursework](#org61a52de)
+    2.  [Job Experiences](#orgf86bbc0)
+        1.  [Lawrence Livermore National Laboratory, Livermore CA](#orge00ef18)
+        2.  [G3 Enterprises, Modesto, CA](#org7a2d780)
+    3.  [Skills](#org268dc5d)
+    4.  [Personal Projects](#orgfd6270c)
+        1.  [Algorithm Visualization Software](#org04f9f0b)
+
+
+
+<a id="org087adbd"></a>
+
+# Ramon Arambula Resume
+
+
+<a id="orgdb55078"></a>
 
 ## Education
 
-### **Withering Madness University** Planet Vhoorl
 
-**Major:** Public Relations
+<a id="org4248695"></a>
 
-**Minor:** Scale Tending
+### University of the Pacific, Stockton, CA                  Expected Graduation: May 2024
+
+B.S. Computer Science                                    Major GPA: 3.88
+
+
+<a id="org61a52de"></a>
+
+### Related Coursework
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Algorithms Design and Analysis</td>
+<td class="org-left">Data Structures</td>
+<td class="org-left">App Development</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Machine Learning</td>
+<td class="org-left">Computer Networking</td>
+<td class="org-left">Deep Learning</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Computing Theory</td>
+<td class="org-left">Discrete Math</td>
+<td class="org-left">Intro to CS</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgf86bbc0"></a>
+
+## Job Experiences
+
+
+<a id="orge00ef18"></a>
+
+### Lawrence Livermore National Laboratory, Livermore CA
+
+DevOps Engineer Intern                                  June 2022 - August 2022
+
+-   Utilized the Selenium Library to develop Python unit tests for our database management front-end app
+-   Developed an API layer to interface between StorageGRID and AWS services for our app
+-   Automated the user credential storage and utilized API layer to view AWS bucket content in the front-end
+
+
+<a id="org7a2d780"></a>
+
+### G3 Enterprises, Modesto, CA
+
+Automation Intern
+
+-   Developed Python scripts that streamlined test cases in our development environment
+-   Utilized TestComplete to write automated UI tests for our Java applications
+-   Facilitated a transition from Citrix server databases to Amazon AWS servers
+
+
+<a id="org268dc5d"></a>
 
 ## Skills
 
-### **Office skills**
+Programming Languages: Python, Rust, C++, Java, SQL
+Tools: Git, Selenium, Linux, Bash Scripting, Docker
 
-Office and records management, database administration, event organization, customer support, travel coordination
 
-### **Computer skills**
+<a id="orgfd6270c"></a>
 
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+## Personal Projects
 
-## Experience
 
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
+<a id="org04f9f0b"></a>
 
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+### Algorithm Visualization Software
